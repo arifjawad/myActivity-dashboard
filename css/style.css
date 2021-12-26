@@ -1,0 +1,24 @@
+#user-table{
+    overflow: scroll;
+}
+.background-color-1{
+  background-color:bisque;
+}
+.text-color{
+    color: #4f3e35;
+}
+.text-color2{
+    color:#4f3e35;
+}
+.background-color-3{
+    background: #6d6a77 !important;
+}
+.background-color-2{
+    background: #6994a2 !important;
+}
+.custom-font{
+    font-size: 15px;
+}
+.modal-body{
+    word-break: break-all;
+  }
